@@ -10,7 +10,7 @@
 // YOUR CODE HERE
 
 int connor = 1; 
-
+int poojan_and_nick = 1;
 /* create a new thread */
 int rpthread_create(rpthread_t * thread, pthread_attr_t * attr, 
                       void *(*function)(void*), void * arg) {
