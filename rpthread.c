@@ -10,7 +10,6 @@
 // YOUR CODE HERE
 
 int connor = 1; 
-int climbing_hill_ = 0;
 
 /* create a new thread */
 int rpthread_create(rpthread_t * thread, pthread_attr_t * attr, 
